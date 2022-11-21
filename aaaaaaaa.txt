@@ -1,0 +1,16 @@
+
+lab-106@LAB104-WS02 MINGW64 ~
+$ cd Downloads/
+
+lab-106@LAB104-WS02 MINGW64 ~/Downloads
+$ mkdir test1
+
+lab-106@LAB104-WS02 MINGW64 ~/Downloads
+$ cd test1
+
+lab-106@LAB104-WS02 MINGW64 ~/Downloads/test1
+$ git init
+Initialized empty Git repository in C:/Users/lab-106/Downloads/test1/.git/
+
+lab-106@LAB104-WS02 MINGW64 ~/Downloads/test1 (master)
+$
